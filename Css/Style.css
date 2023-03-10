@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.james {
+   width: 100vw;
+  
+}
+h2 {
+  font-family: 'Times New Roman';
+}
+.sell {
+  color: #0acb2b;
+}
+.button {
+  background-color: #1f5f1d;
+  border-radius: 0px;
+text-align: center;
+  
+}
