@@ -14,7 +14,16 @@ h2 {
 }
 .button {
   background-color: #1f5f1d;
-  border-radius: 0px;
+  border-radius: 10px;
 text-align: center;
+display: flex;
+color: white;
+justify-content: center;
+padding: 20px;
+gap: 10px;
   
+}
+
+.description {
+  padding: 10px 20px;
 }
